@@ -24,7 +24,6 @@
 		4E642BA3272FBC0E0060673D /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		4E642BA5272FBC0E0060673D /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		4E642BAD272FC72F0060673D /* TableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TableViewController.swift; sourceTree = "<group>"; };
-		4E642BB1272FD15C0060673D /* FoodPin.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = FoodPin.entitlements; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,7 +56,6 @@
 		4E642B96272FBC0E0060673D /* FoodPin */ = {
 			isa = PBXGroup;
 			children = (
-				4E642BB1272FD15C0060673D /* FoodPin.entitlements */,
 				4E642B97272FBC0E0060673D /* AppDelegate.swift */,
 				4E642B99272FBC0E0060673D /* SceneDelegate.swift */,
 				4E642BAD272FC72F0060673D /* TableViewController.swift */,
